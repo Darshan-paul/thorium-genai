@@ -34,7 +34,7 @@ It empowers students, researchers, and policymakers by making nuclear energy kno
 
 🚀 Demo Links / Prototypes (Optional)
 
-Live Demo: [Coming Soon]
+Live Demo: https://youtu.be/I00nqusoxKg
 
 GitHub Repository: [Thorium GenAI](https://github.com/Darshan-paul/thorium-genai.git)
 
